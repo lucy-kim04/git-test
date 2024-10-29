@@ -11,5 +11,5 @@ function multiply (a, b) {
 }
 
 function divide6(a, b) {
-    return a / b
+    return a / b;
 }
